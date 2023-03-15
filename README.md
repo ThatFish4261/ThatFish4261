@@ -10,7 +10,7 @@ Hi, I'm Robert :). Im a Freshman at Azusa Pacific University studying Games and 
 ## Find My Work
 [LinkedIn](https://www.linkedin.com/in/robert-linsalato-jr/)
 
-[itch.io](thatfish4261.itch.io)
+[itch.io](https://thatfish4261.itch.io)
 
 [ArtStation](https://www.artstation.com/robertlinsalato)
 
