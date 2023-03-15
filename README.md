@@ -1,5 +1,5 @@
 # Robert Linsalato Jr.
-Hi, I'm Robert :). Im a Freshman at Azusa Pacific University studying Games and Interactive Media. 
+Hi, I'm Robert :). Im a Freshman at Azusa Pacific University studying Games and Interactive Media. In my free time, I like to play movement FPS games (go Titanfall), play Assetto Corsa, and learn new things (currently learning CSS)
 
 ## Skills
 - Unity
