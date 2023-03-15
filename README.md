@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @ThatFish4261
-- 👀 I’m interested in Game Development and Design
-- 🌱 I’m currently learning Unity and Game Design
-- 💞️ I’m looking to collaborate on stuff and things
-- 📫 Reach me at ...
-
 # Robert Linsalato Jr.
 Hi, I'm Robert :). Im a Freshman at Azusa Pacific University studying Games and Interactive Media. 
 
