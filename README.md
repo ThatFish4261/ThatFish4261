@@ -5,6 +5,19 @@
 - 📫 Reach me at ...
 
 # Robert Linsalato Jr
+Hi, I'm Robert :). Im a Freshman at Azusa Pacific University studying Games and Interactive Media. 
+
+## Skills
+- Unity
+- C#
+- GIMP
+- Aseprite
+
+## Find My Work
+[LinkedIn](https://www.linkedin.com/in/robert-linsalato-jr/)
+[itch.io](thatfish4261.itch.io)
+[ArtStation](https://www.artstation.com/robertlinsalato)
+
 
 
 <!---
