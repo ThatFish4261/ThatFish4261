@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on stuff and things
 - 📫 Reach me at ...
 
-# Robert Linsalato Jr
+# Robert Linsalato Jr.
 Hi, I'm Robert :). Im a Freshman at Azusa Pacific University studying Games and Interactive Media. 
 
 ## Skills
@@ -15,7 +15,9 @@ Hi, I'm Robert :). Im a Freshman at Azusa Pacific University studying Games and 
 
 ## Find My Work
 [LinkedIn](https://www.linkedin.com/in/robert-linsalato-jr/)
+
 [itch.io](thatfish4261.itch.io)
+
 [ArtStation](https://www.artstation.com/robertlinsalato)
 
 
